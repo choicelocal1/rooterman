@@ -1,4 +1,4 @@
-<script>
+
     Webflow.push(function(){
     $("#wf-form-Zip-Form").submit(function(){
         zip = document.getElementById("zip").value;
@@ -620,4 +620,3 @@
         }
         });
     })});
-</script>
